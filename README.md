@@ -1,6 +1,6 @@
 ## Demo E-commerce Platform
 
-![Preview](./public/preview.png)
+![Preview](./public/images/preview.png)
 
 ---
 
